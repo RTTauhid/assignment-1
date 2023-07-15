@@ -4,7 +4,7 @@
 }
 .header {
   text-align: justify;
-  width: 1450px;
+
   height: 400px;
   flex-shrink: 0;
   background: rgba(229, 84, 115, 0.1);
