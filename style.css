@@ -1,0 +1,176 @@
+.head {
+  display: flex;
+  margin: auto;
+}
+.header {
+  text-align: justify;
+  width: 1450px;
+  height: 400px;
+  flex-shrink: 0;
+  background: rgba(229, 84, 115, 0.1);
+}
+
+.head-text {
+  padding: 60px 240px;
+}
+.heading-title {
+  color: #272727;
+  font-family: Lato;
+
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.heading-image {
+  padding-right: 300px;
+}
+.btn-title {
+  border-radius: 8px;
+  background: #e55473;
+  display: inline-flex;
+  padding: 20px 43px;
+  align-items: flex-start;
+  gap: 80px;
+}
+
+/* main section*/
+.main-section-container {
+  text-align: center;
+}
+.main-section-paragraph {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.images-container {
+  display: flex;
+  text-align: center;
+  padding-left: 350px;
+  gap: 30px;
+}
+.images1 {
+  background: rgba(167, 33, 98, 0.15);
+  border-radius: 300px 300px 0px 0px;
+}
+.images2 {
+  background: rgba(5, 151, 160, 0.15);
+  border-radius: 300px 300px 0px 0px;
+}
+.images3 {
+  background: rgba(71, 125, 17, 0.15);
+  border-radius: 300px 300px 0px 0px;
+}
+.flower-name {
+  display: flex;
+  text-align: center;
+
+  padding-left: 445px;
+  gap: 100px;
+}
+.hot-deals {
+  text-align: center;
+  padding-left: 150px;
+  display: flex;
+  margin: auto;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  gap: 90px;
+}
+.hot-deals-title {
+  padding-top: 90px;
+}
+.sign-up {
+  padding: 20px 30px;
+  gap: 10px;
+  border-radius: 8px;
+  background: #e55473;
+}
+.off {
+  color: #e55473;
+}
+.off {
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.media-image {
+  display: flex;
+  gap: 15px;
+  padding-left: 330px;
+}
+.Instagram {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.media-heading {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.content-heading {
+  font-family: Lato;
+}
+.Rectangle-9 {
+  position: relative;
+  padding-top: 50px;
+  margin: auto;
+  padding-left: 330px;
+}
+
+.content .img-content-1 {
+  position: relative;
+  bottom: 230px;
+  left: 620px;
+}
+.email-btn {
+  display: flex;
+  gap: 10px;
+}
+.email {
+  border: 50px;
+  background: #fff;
+  padding-right: 20px;
+}
+.btn-color {
+  background-color: #e55473;
+}
+.bottom-part {
+  text-align: center;
+  padding-top: 50px;
+  background-color: #272727;
+  height: 300px;
+}
+.info {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.rights {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
